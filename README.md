@@ -1,2 +1,2 @@
-# http://telainicialinstagram.github.io
+#telainicialinstagram.github.io
 Desafio de projeto
